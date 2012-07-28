@@ -1,4 +1,4 @@
 AppSync
 =======
 
-Apss omnipresence
+Apps omnipresence
